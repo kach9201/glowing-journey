@@ -3,6 +3,8 @@
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 # <Your-Project-Title>
 
+![gif] (images/Walkthrough.gif)
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:

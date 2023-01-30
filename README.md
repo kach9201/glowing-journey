@@ -3,7 +3,7 @@
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 # <Your-Project-Title>
 
-![gif] (https://github.com/kach9201/glowing-journey/blob/main/images/Walkthrough.gif)
+![](https://github.com/kach9201/glowing-journey/blob/main/images/Walkthrough.gif)
 
 ## Description
 
